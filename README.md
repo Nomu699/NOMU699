@@ -1,17 +1,227 @@
 <div align="center">
 
-# 🟣 NOMU699
+<!-- HERO IMAGE -->
+<img src="./profile.png" width="100%" alt="NOMU699 Profile Banner">
 
-### Noman Hossen Asif
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=CRYPTO+%7C+WEB3+%7C+TRADING;Exploring+the+Decentralized+Future;Research+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Grow" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=9D4EDD&center=true&vCenter=true&width=750&lines=CRYPTO+%E2%80%A2+WEB3+%E2%80%A2+TRADING+%E2%80%A2+AI;EXPLORING+THE+DECENTRALIZED+FUTURE;RESEARCH+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+GROW;WELCOME+TO+THE+WORLD+OF+NOMU699" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CRYPTO-8A2BE2?style=for-the-badge&logo=bitcoin&logoColor=white">
-<img src="https://img.shields.io/badge/WEB3-00D4FF?style=for-the-badge&logo=ethereum&logoColor=white">
-<img src="https://img.shields.io/badge/TRADING-00C853?style=for-the-badge&logo=tradingview&logoColor=white">
-<img src="https://img.shields.io/badge/AI-FF00A8?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/₿_CRYPTO-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/⛓_WEB3-00D4FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/📈_TRADING-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🤖_AI-FF00A8?style=for-the-badge">
+
+</div>
+
+---
+
+<div align="center">
+
+# 👋 HELLO, I'M **NOMU699**
+
+### **Noman Hossen Asif**
+
+> *“Don't just watch the future. Be a part of it.”*
+
+**Crypto Enthusiast • Web3 Explorer • Trader • Technology Learner**
+
+</div>
+
+---
+
+## 🌌 ABOUT ME
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   👤  NAME       →  Noman Hossen Asif                   ║
+║   🪪  USERNAME   →  Nomu699                             ║
+║   🧭  FOCUS      →  Crypto / Web3 / Trading / AI       ║
+║   🌍  MISSION    →  Learn • Build • Explore             ║
+║                                                          ║
+║   ⚡  MINDSET    →  Curious minds build better futures  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+
+I'm fascinated by the intersection of money, technology, data and decentralization.
+
+My journey revolves around understanding the crypto ecosystem, researching emerging technologies, exploring Web3, and eventually turning ideas into useful tools.
+
+🧠 I believe:
+
+Research creates understanding.
+Building creates experience.
+Consistency creates results.
+
+
+---
+
+🪐 MY UNIVERSE
+
+<div align="center">₿	⛓️	📊	🤖
+
+CRYPTO	BLOCKCHAIN	TRADING	AI
+Digital Assets	Web3	Market Analysis	Automation
+Research	DeFi	Strategy	Innovation
+
+
+</div>
+---
+
+🔥 WHAT I'M EXPLORING
+
+┌───────────────┐
+                         │   NOMU699 🚀  │
+                         └───────┬───────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+        ┌─────────┐        ┌──────────┐        ┌─────────┐
+        │ CRYPTO  │        │   WEB3   │        │   AI    │
+        └────┬────┘        └────┬─────┘        └────┬────┘
+             │                  │                   │
+             ▼                  ▼                   ▼
+       Market Research      DeFi / dApps       Automation
+       Token Research       Blockchain         AI Tools
+       Trading              On-chain            Experiments
+
+
+---
+
+📡 CURRENT MISSION
+
+01 🔎 RESEARCH
+
+Understand markets, protocols, narratives, data and emerging opportunities.
+
+02 🧪 EXPERIMENT
+
+Turn interesting ideas into experiments and useful tools.
+
+03 🛠️ BUILD
+
+Create projects around crypto, Web3, automation and technology.
+
+04 🧠 LEARN
+
+Keep improving technical knowledge and understanding how complex systems work.
+
+05 🚀 GROW
+
+Build consistently and think long-term.
+
+
+---
+
+💻 THINGS I WANT TO BUILD
+
+<div align="center">📊 Crypto Intelligence
+
+Market dashboards • Research tools • Data analysis
+
+🤖 AI × Crypto
+
+AI-powered research • Automation • Intelligent tools
+
+⛓️ Web3
+
+Blockchain experiments • DeFi • Decentralized applications
+
+📈 Trading
+
+Analysis tools • Market utilities • Strategy experiments
+
+</div>
+---
+
+🧬 MY MINDSET
+
+<div align="center">CURIOSITY
+            ↓
+         RESEARCH
+            ↓
+        EXPERIMENT
+            ↓
+          BUILD
+            ↓
+          LEARN
+            ↓
+         IMPROVE
+            ↓
+          REPEAT
+            ↺
+
+EXPLORE • LEARN • BUILD • GROW
+
+</div>
+---
+
+💎 PHILOSOPHY
+
+<div align="center">“A better tomorrow is built by what you do today.”
+
+<br>🧠 Stay Curious
+
+📚 Keep Learning
+
+🔬 Question Everything
+
+🛠️ Build Useful Things
+
+🎯 Think Long Term
+
+🚀 Keep Moving Forward
+
+</div>
+---
+
+📊 GITHUB COMMAND CENTER
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nomu699&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="49%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nomu699&theme=tokyonight&hide_border=true" width="49%"><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomu699&layout=compact&theme=tokyonight&hide_border=true" width="45%"></div>
+---
+
+🐍 CONTRIBUTION TRAIL
+
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"></div>
+---
+
+🌐 CONNECT
+
+<div align="center"><a href="https://github.com/Nomu699">
+<img src="https://img.shields.io/badge/GITHUB-Nomu699-181717?style=for-the-badge&logo=github">
+</a><a href="https://t.me/Nimu699">
+<img src="https://img.shields.io/badge/TELEGRAM-Nimu699-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a><a href="https://twitter.com/Nomu699">
+<img src="https://img.shields.io/badge/X-@Nomu699-000000?style=for-the-badge&logo=x&logoColor=white">
+</a></div>
+---
+
+<br><div align="center">🟣 NOMU699
+
+CRYPTO • WEB3 • TRADING • AI • TECHNOLOGY
+
+<br>Same Human. Bigger Dreams.
+
+<br><img src="https://komarev.com/ghpvc/?username=Nomu699&style=for-the-badge&color=8A2BE2"><br><br>
+
+⭐ Thanks for visiting my profile.
+
+🚀 LET'S BUILD THE FUTURE.
+
+</div>
+```📁 Your repository should look like this
+
+Nomu699/
+│
+├── README.md
+│
+└── profile.png<img src="https://img.shields.io/badge/AI-FF00A8?style=for-the-badge&logo=openai&logoColor=white">
 
 </div>
 
